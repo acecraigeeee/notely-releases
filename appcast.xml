@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Whisker</title>
+    <item>
+      <title>0.2.0</title>
+      <pubDate>Thu, 12 Nov 2026 19:01:12 +0000</pubDate>
+      <sparkle:version>202611121857</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>New Notetaker page (beta): record a meeting or import a recording, then ask Notely anything about it.</li><li>The details: people, dates, numbers, decisions, action items and open questions, pulled out for you.</li><li>What did I miss?: catch up on any part of a meeting, even while it's still going.</li><li>Summaries in four lengths, and tasks that use your meetings, like updating a plan from last week's calls.</li><li>Connect AI tools: let Claude, Cursor, Gemini CLI, VS Code and other MCP tools read the meetings you choose.</li></ul>]]></description>
+      <enclosure url="https://raw.githubusercontent.com/acecraigeeee/notely-releases/main/Notely-0.2.0.zip" sparkle:edSignature="J4XwH317VnQxsVxwm2zxD8F7mVBinDIzWyS+YbQi1cl/wNQBvQiN9EjkSfM24BRhgqtEk0hapG/XnkGc9RpmAg==" length="17432849" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

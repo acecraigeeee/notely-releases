@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "version": "0.2.1",
+      "channel": "stable",
+      "date": "2026-11-13",
+      "published": "Fri, 13 Nov 2026 08:25:19 +0000",
+      "download": "https://github.com/acecraigeeee/notely-releases/releases/download/mac-v0.2.1/Notely-0.2.1.zip",
+      "minimumSystem": "14.0",
+      "highlights": [
+        "Improved window dragging and resizing.",
+        "Includes the latest Notely Mac updates."
+      ],
+      "build": "202611130815",
+      "edSignature": "aK5O8UuRGuvsFsLUw1URSRndSdxvmdRGxZbBfZoT8cN2mrQYpYkDrV1yxyXfswJtmKxDOkE9oZpCP+666VZyAg==",
+      "length": "17450769"
+    },
+    {
       "version": "0.2.0",
       "channel": "stable",
       "date": "2026-11-12",
